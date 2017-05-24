@@ -1,0 +1,97 @@
+\contentsline {section}{\numberline {1}Strings}{1}
+\contentsline {subsection}{\numberline {1.1}Knuth - Morris - Pratt algorithm}{1}
+\contentsline {subsection}{\numberline {1.2}Aho-Corasick}{2}
+\contentsline {subsection}{\numberline {1.3}Rabin-Karp (Rolling hash)}{2}
+\contentsline {subsection}{\numberline {1.4}Boyer-moore}{3}
+\contentsline {subsection}{\numberline {1.5}Manacher's longest pallindromic substring}{3}
+\contentsline {subsection}{\numberline {1.6}Suffix array + Longest common prefix}{3}
+\contentsline {section}{\numberline {2}Graphs}{4}
+\contentsline {subsection}{\numberline {2.1}DFS/BFS}{4}
+\contentsline {subsection}{\numberline {2.2}Shortest path}{4}
+\contentsline {subsubsection}{\numberline {2.2.1}Dijkstra's algorithm}{4}
+\contentsline {subsubsection}{\numberline {2.2.2}Bellman Ford's algorithm}{4}
+\contentsline {subsubsection}{\numberline {2.2.3}Floyd--Warshall's algorithm}{5}
+\contentsline {subsubsection}{\numberline {2.2.4}Johnson's algorithm}{5}
+\contentsline {subsection}{\numberline {2.3}Bipartity check}{5}
+\contentsline {subsection}{\numberline {2.4}Articulations \& bridges}{5}
+\contentsline {subsection}{\numberline {2.5}Ford Fulkerson's maximal flow \& minimal cut}{6}
+\contentsline {subsubsection}{\numberline {2.5.1}Edmonds--Karp's algorithm}{6}
+\contentsline {subsubsection}{\numberline {2.5.2}Dinic's algorithm}{6}
+\contentsline {subsection}{\numberline {2.6}Bipartite check}{7}
+\contentsline {subsection}{\numberline {2.7}Tarjan's strongly connected components algorithm}{7}
+\contentsline {subsection}{\numberline {2.8}Toposort}{7}
+\contentsline {subsection}{\numberline {2.9}Minimum spanning tree}{7}
+\contentsline {subsubsection}{\numberline {2.9.1}Kruskal-Boruvka}{7}
+\contentsline {subsubsection}{\numberline {2.9.2}Jarnik-Prim}{8}
+\contentsline {subsection}{\numberline {2.10}Bipartite matching}{8}
+\contentsline {subsection}{\numberline {2.11}NP-complete}{8}
+\contentsline {subsubsection}{\numberline {2.11.1}Travelling salesman problem -- TSP}{8}
+\contentsline {subsubsection}{\numberline {2.11.2}Hamiltonian path}{9}
+\contentsline {subsubsection}{\numberline {2.11.3}Eulerian path}{9}
+\contentsline {subsubsection}{\numberline {2.11.4}Vertex cover}{9}
+\contentsline {section}{\numberline {3}Data structures}{10}
+\contentsline {subsection}{\numberline {3.1}Union find}{10}
+\contentsline {subsection}{\numberline {3.2}Fenwick tree}{10}
+\contentsline {subsection}{\numberline {3.3}Segment tree}{10}
+\contentsline {subsection}{\numberline {3.4}Segment tree Lazy}{10}
+\contentsline {subsection}{\numberline {3.5}Range Minimum Query (RMQ)}{11}
+\contentsline {subsection}{\numberline {3.6}Lowest Common Ancestor (LCA)}{11}
+\contentsline {subsection}{\numberline {3.7}LCA iterative}{12}
+\contentsline {subsection}{\numberline {3.8}Tarjan's offline LCA}{12}
+\contentsline {subsection}{\numberline {3.9}Treap}{12}
+\contentsline {subsection}{\numberline {3.10}HLD}{13}
+\contentsline {subsection}{\numberline {3.11}HLD2}{14}
+\contentsline {section}{\numberline {4}Math}{15}
+\contentsline {subsection}{\numberline {4.1}List divisors}{15}
+\contentsline {subsection}{\numberline {4.2}Modulo}{15}
+\contentsline {subsection}{\numberline {4.3}Modular inverse}{15}
+\contentsline {subsection}{\numberline {4.4}Sieve of Eratosthenes}{15}
+\contentsline {subsection}{\numberline {4.5}Euclidean algorithm}{15}
+\contentsline {subsubsection}{\numberline {4.5.1}Euclidean algorithm (GCD)}{15}
+\contentsline {subsubsection}{\numberline {4.5.2}Extended Euclidean algorithm (EGCD)}{15}
+\contentsline {subsection}{\numberline {4.6}Pascal's triangle}{16}
+\contentsline {subsection}{\numberline {4.7}Powers}{16}
+\contentsline {subsubsection}{\numberline {4.7.1}Power of number}{16}
+\contentsline {subsubsection}{\numberline {4.7.2}Modular power}{16}
+\contentsline {subsubsection}{\numberline {4.7.3}Matrix power}{16}
+\contentsline {subsection}{\numberline {4.8}Equations}{16}
+\contentsline {subsubsection}{\numberline {4.8.1}Gauss elimination method -- GEM}{16}
+\contentsline {subsubsection}{\numberline {4.8.2}Linear diophantine (ax+by=c)}{17}
+\contentsline {subsubsection}{\numberline {4.8.3}Modular linear equation (ax=b mod m)}{17}
+\contentsline {subsubsection}{\numberline {4.8.4}Recurrent equations}{17}
+\contentsline {subsubsection}{\numberline {4.8.5}Recurrent equations 2}{17}
+\contentsline {subsection}{\numberline {4.9}Factorization}{18}
+\contentsline {subsection}{\numberline {4.10}Chinese reminder theorem}{18}
+\contentsline {subsection}{\numberline {4.11}Big numbers in Java}{18}
+\contentsline {subsection}{\numberline {4.12}Big numbers}{18}
+\contentsline {subsection}{\numberline {4.13}Catalan numbers}{20}
+\contentsline {subsection}{\numberline {4.14}Combinatinal numbers}{20}
+\contentsline {subsection}{\numberline {4.15}Combinatinal numbers modulo}{20}
+\contentsline {subsection}{\numberline {4.16}Euler's totient function}{20}
+\contentsline {subsection}{\numberline {4.17}Fast polynom multiplication using DFFT}{20}
+\contentsline {subsection}{\numberline {4.18}Horner's rule for evaluation of polynoms}{21}
+\contentsline {section}{\numberline {5}Geometry}{21}
+\contentsline {subsection}{\numberline {5.1}Global features}{21}
+\contentsline {subsection}{\numberline {5.2}Line equation}{22}
+\contentsline {subsection}{\numberline {5.3}Circles}{22}
+\contentsline {subsubsection}{\numberline {5.3.1}Circle-line intersection}{22}
+\contentsline {subsubsection}{\numberline {5.3.2}Two circles intersection}{22}
+\contentsline {subsubsection}{\numberline {5.3.3}Triangles: inscribed + circumscribed circle}{23}
+\contentsline {subsubsection}{\numberline {5.3.4}Triangles \& quadrilaterals facts}{23}
+\contentsline {subsection}{\numberline {5.4}Convex hull}{23}
+\contentsline {subsection}{\numberline {5.5}3D geometry}{24}
+\contentsline {subsubsection}{\numberline {5.5.1}Gloabal features}{24}
+\contentsline {subsubsection}{\numberline {5.5.2}Spherical distance}{24}
+\contentsline {section}{\numberline {6}Dynamic programming}{24}
+\contentsline {subsection}{\numberline {6.1}Longest increasing subsequence}{24}
+\contentsline {subsection}{\numberline {6.2}Minimal cost path}{25}
+\contentsline {section}{\numberline {7}Others}{25}
+\contentsline {subsection}{\numberline {7.1}Binary search}{25}
+\contentsline {subsection}{\numberline {7.2}Ternary search}{25}
+\contentsline {subsection}{\numberline {7.3}Bit tricks}{25}
+\contentsline {subsection}{\numberline {7.4}K-th minimum}{25}
+\contentsline {subsection}{\numberline {7.5}All nearest smaller values}{26}
+\contentsline {subsection}{\numberline {7.6}STL}{26}
+\contentsline {subsection}{\numberline {7.7}Template}{26}
+\contentsline {subsection}{\numberline {7.8}.bash-profile}{26}
+\contentsline {subsection}{\numberline {7.9}.vimrc}{26}

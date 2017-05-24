@@ -1,0 +1,563 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.14)  18 NOV 2016 06:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**codebook.tex
+(./codebook.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
+\c@tracingmulticols=\count99
+\mult@box=\box28
+\multicol@leftmargin=\dimen112
+\c@unbalance=\count100
+\c@collectmore=\count101
+\doublecol@number=\count102
+\multicoltolerance=\count103
+\multicolpretolerance=\count104
+\full@width=\dimen113
+\page@free=\dimen114
+\premulticols=\dimen115
+\postmulticols=\dimen116
+\multicolsep=\skip46
+\multicolbaselineskip=\skip47
+\partial@page=\box29
+\last@line=\box30
+\maxbalancingoverflow=\dimen117
+\mult@rightbox=\box31
+\mult@grightbox=\box32
+\mult@gfirstbox=\box33
+\mult@firstbox=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\c@columnbadness=\count105
+\c@finalcolumnbadness=\count106
+\last@try=\dimen118
+\multicolovershoot=\dimen119
+\multicolundershoot=\dimen120
+\mult@nat@firstbox=\box52
+\colbreak@box=\box53
+\mc@col@check@num=\count107
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count108
+))
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count109
+\float@exts=\toks20
+\float@box=\box54
+\@float@everytoks=\toks21
+\@floatcapt=\box55
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count110
+\Gm@cntv=\count111
+\c@Gm@tempcnt=\count112
+\Gm@bindingoffset=\dimen123
+\Gm@wd@mp=\dimen124
+\Gm@odd@mp=\dimen125
+\Gm@even@mp=\dimen126
+\Gm@layoutwidth=\dimen127
+\Gm@layoutheight=\dimen128
+\Gm@layouthoffset=\dimen129
+\Gm@layoutvoffset=\dimen130
+\Gm@dimlist=\toks22
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count113
+\lst@gtempboxa=\box56
+\lst@token=\toks23
+\lst@length=\count114
+\lst@currlwidth=\dimen131
+\lst@column=\count115
+\lst@pos=\count116
+\lst@lostspace=\dimen132
+\lst@width=\dimen133
+\lst@newlines=\count117
+\lst@lineno=\count118
+\lst@maxwidth=\dimen134
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count119
+\lst@skipnumbers=\count120
+\lst@framebox=\box57
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/05/09 v1.1c Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 144.
+)
+(./codebook.aux)
+\openout1 = `codebook.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count121
+\scratchdimen=\dimen135
+\scratchbox=\box58
+\nofMPsegments=\count122
+\nofMParguments=\count123
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count124
+\MPscratchDim=\dimen136
+\MPnumerator=\count125
+\makeMPintoPDFobject=\count126
+\everyMPtoPDFconversion=\toks25
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(28.45274pt, 788.14136pt, 28.45274pt)
+* v-part:(T,H,B)=(42.67912pt, 512.14963pt, 42.67912pt)
+* \paperwidth=845.04684pt
+* \paperheight=597.50787pt
+* \textwidth=788.14136pt
+* \textheight=512.14963pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count127
+(./codebook.toc
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+ [][] []\OT1/cmr/m/n/10 Extended Eu-clidean al-go-rithm 
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `codebook.toc'.
+
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+)
+(./strings/kmp.cpp [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap
+/pdftex.map}
+
+]) (./strings/aho.cpp) (./strings/rabin-karp.cpp) [2]
+(./strings/boyer-moore.cpp) (./strings/manacher.cpp)
+(./strings/suffixArray+LCE.cpp [3]) (./graphs/dbfs.cpp) (./graphs/dijkstra.cpp)
+(./graphs/bellford.cpp
+Missing character: There is no â in font cmtt8!
+Missing character: There is no € in font cmtt8!
+Missing character: There is no “ in font cmtt8!
+) [4] (./graphs/fw.cpp) (./graphs/bellford.cpp
+Missing character: There is no â in font cmtt8!
+Missing character: There is no € in font cmtt8!
+Missing character: There is no “ in font cmtt8!
+)
+(./graphs/bipartite.cpp) (./graphs/articulations-bridges.cpp [5])
+(./graphs/maxflow-mincut.cpp) (./graphs/dinic.cpp [6]) (./graphs/bipartite.cpp)
+(./graphs/tarjan.cpp) (./graphs/topo.cpp) (./graphs/kruskal.cpp [7])
+(./graphs/jarnik.cpp) (./graphs/bipartite_matching.cpp) (./graphs/tsp.cpp)
+(./graphs/hamiltonian_path.cpp [8]) (./graphs/euler.cpp)
+(./graphs/vertexCover.cpp [9]) (./structs/union_find.cpp)
+(./structs/fenwick_tree.cpp) (./structs/segment_tree.cpp)
+(./structs/segtreeLazy.cpp [10]) (./structs/rmq.cpp) (./structs/lca.cpp
+[11]) (./structs/lca2.cpp) (./structs/lca3.cpp) (./structs/treap.cpp [12])
+(./structs/hld.cpp) (./structs/hl2.cpp [13] [14]) (./math/divisors.cpp)
+(./math/mod.cpp) (./math/mod_inverse.cpp) (./math/era.cpp) (./math/gcd.cpp)
+(./math/extended_euclid.cpp) [15] (./math/pascal.cpp) (./math/power.cpp)
+(./math/modular_power.cpp) (./math/powmod.cpp)
+(./math/matrix_exponentiation.cpp) (./math/gem.cpp [16])
+(./math/linear_diophantine.cpp) (./math/modular_linear_equation_solver.cpp)
+(./math/recurrent.cpp) (./math/recurrent2.cpp [17]) (./math/factorization.cpp)
+(./math/chinese.cpp)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(./math/bignumJava.java) (./math/bignum.cpp [18] [19]) (./math/catalan.cpp
+Missing character: There is no â in font cmtt8!
+Missing character: There is no € in font cmtt8!
+Missing character: There is no ¦ in font cmtt8!
+Missing character: There is no â in font cmtt8!
+Missing character: There is no € in font cmtt8!
+Missing character: There is no ¦ in font cmtt8!
+)
+(./math/comb.cpp) (./math/comb_mod.c) (./math/eulersTotientFunc.cpp)
+(./math/fft.cpp [20]) (./math/horner.cpp) (./geometry/geometry.cpp [21]
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no â in font cmtt8!
+Missing character: There is no ˆ in font cmtt8!
+Missing character: There is no ’ in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no â in font cmtt8!
+Missing character: There is no ˆ in font cmtt8!
+Missing character: There is no ’ in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no â in font cmtt8!
+Missing character: There is no ˆ in font cmtt8!
+Missing character: There is no ’ in font cmtt8!
+Missing character: There is no â in font cmtt8!
+Missing character: There is no € in font cmtt8!
+Missing character: There is no ™ in font cmtt8!
+Missing character: There is no â in font cmtt8!
+Missing character: There is no € in font cmtt8!
+Missing character: There is no ˜ in font cmtt8!
+Missing character: There is no â in font cmtt8!
+Missing character: There is no € in font cmtt8!
+Missing character: There is no ™ in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+)
+(./geometry/line_equation.cpp) (./geometry/circleLineInters.cpp)
+(./geometry/2circlesInters.cpp [22])
+(./geometry/circle-inscribed-circumscribed.cpp
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+)
+(./geometry/triangles-quadrilaterals.cpp
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no â in font cmtt8!
+Missing character: There is no ˆ in font cmtt8!
+Missing character: There is no ’ in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no â in font cmtt8!
+Missing character: There is no ˆ in font cmtt8!
+Missing character: There is no ’ in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no â in font cmtt8!
+Missing character: There is no ˆ in font cmtt8!
+Missing character: There is no ’ in font cmtt8!
+Missing character: There is no â in font cmtt8!
+Missing character: There is no € in font cmtt8!
+Missing character: There is no ™ in font cmtt8!
+Missing character: There is no â in font cmtt8!
+Missing character: There is no € in font cmtt8!
+Missing character: There is no ˜ in font cmtt8!
+Missing character: There is no â in font cmtt8!
+Missing character: There is no € in font cmtt8!
+Missing character: There is no ™ in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no — in font cmtt8!
+)
+<images/Cross-product-with-area.png, id=78, 477.785pt x 415.5525pt>
+File: images/Cross-product-with-area.png Graphic file (type png)
+
+<use images/Cross-product-with-area.png>
+Package pdftex.def Info: images/Cross-product-with-area.png used on input line 
+189.
+(pdftex.def)             Requested size: 256.04712pt x 222.69566pt.
+
+<images/dot_product_projection.png, id=80, 184.74019pt x 129.63431pt>
+File: images/dot_product_projection.png Graphic file (type png)
+
+<use images/dot_product_projection.png>
+Package pdftex.def Info: images/dot_product_projection.png used on input line 1
+90.
+(pdftex.def)             Requested size: 256.04712pt x 179.69069pt.
+ (./geometry/convex_hull.cpp [23 <./images/Cross-product-with-area.png> <./imag
+es/dot_product_projection.png>])
+(./geometry/3dgeometry.cpp) (./geometry/3d-spherical-distance.cpp)
+(./dp/lis.cpp) [24] (./dp/minCostPath.cpp) (./other/binary.cpp)
+(./other/ternary_search.c) (./other/miscellaneous.cpp
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no © in font cmtt8!
+Missing character: There is no Å in font cmtt8!
+Missing character: There is no ¡ in font cmtt8!
+Missing character: There is no Å in font cmtt8!
+Missing character: There is no ™ in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no ­ in font cmtt8!
+Missing character: There is no Ã in font cmtt8!
+Missing character: There is no ­ in font cmtt8!
+) (./other/kthMin.cpp
+[25]) (./other/allNearestSmaller.cpp) (./other/stl.cpp) (./template.cpp)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(./other/basrc) (./other/vimrc)
+<other/asciifull.png, id=93, 717.68124pt x 489.83pt>
+File: other/asciifull.png Graphic file (type png)
+ <use other/asciifull.png>
+Package pdftex.def Info: other/asciifull.png used on input line 222.
+(pdftex.def)             Requested size: 256.04712pt x 174.7616pt.
+
+[26] [27 <./other/asciifull.png>] (./codebook.aux) ) 
+Here is how much of TeX's memory you used:
+ 5965 strings out of 493014
+ 78909 string characters out of 6133350
+ 1002776 words of memory out of 5000000
+ 9198 multiletter control sequences out of 15000+600000
+ 6301 words of font info for 24 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,6n,61p,343b,1799s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2016/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2016/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on codebook.pdf (27 pages, 368495 bytes).
+PDF statistics:
+ 122 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+

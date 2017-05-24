@@ -1,0 +1,228 @@
+\documentclass[a4paper]{article}
+\setlength{\parindent}{0.0in}
+\usepackage{amsmath}
+\usepackage{multicol}
+\usepackage{graphicx} % pro vkladani obrazku
+\usepackage{float} % umozni fixni pozici obrazku
+\usepackage[landscape,a4paper,twoside=false,top=15mm,bottom=15mm,left=10mm,right=10mm]{geometry}
+\pagestyle{myheadings}
+\markright{}
+\usepackage{listings}
+\usepackage{color}
+\lstset{
+	tabsize=4,
+    basicstyle=\ttfamily\scriptsize,
+    aboveskip={1.5\baselineskip},
+    columns=fixed,
+    showstringspaces=false,
+    extendedchars=true,
+    breaklines=true,
+    prebreak = \raisebox{0ex}[0ex][0ex]{\ensuremath{\hookleftarrow}},
+    frame=single,
+    rulecolor=\color[rgb]{0.75,0.75,0.75},
+    showtabs=false,
+    showspaces=false,
+    showstringspaces=false,
+    keywordstyle=\color[rgb]{0,0,1},
+    commentstyle=\color[rgb]{0.133,0.545,0.133},
+    stringstyle=\color[rgb]{0.627,0.126,0.941},
+}
+
+\begin{document}
+\begin{multicols*}{3}
+\setlength{\parskip}{0.0in}
+\tableofcontents
+\setlength{\parskip}{0.1in}
+
+
+\section{Strings}
+    \subsection{Knuth - Morris - Pratt algorithm}
+        \lstinputlisting[language=c++]{strings/kmp.cpp}
+    \subsection{Aho-Corasick}
+        \lstinputlisting[language=c++]{strings/aho.cpp}
+    \subsection{Rabin-Karp (Rolling hash)}
+        \lstinputlisting[language=c++]{strings/rabin-karp.cpp}
+    \subsection{Boyer-moore}
+        \lstinputlisting[language=c++]{strings/boyer-moore.cpp}
+    \subsection{Manacher's longest pallindromic substring}
+        \lstinputlisting[language=c++]{strings/manacher.cpp}
+    \subsection{Suffix array + Longest common prefix}
+        \lstinputlisting[language=c++]{strings/suffixArray+LCE.cpp}
+
+\section{Graphs}
+    \subsection{DFS/BFS}
+        \lstinputlisting[language=c++]{graphs/dbfs.cpp}
+    \subsection{Shortest path}
+        \subsubsection{Dijkstra's algorithm}
+            \lstinputlisting[language=c++]{graphs/dijkstra.cpp}
+        \subsubsection{Bellman Ford's algorithm}
+            \lstinputlisting[language=c++]{graphs/bellford.cpp}
+        \subsubsection{Floyd--Warshall's algorithm}
+            \lstinputlisting[language=c++]{graphs/fw.cpp}
+        \subsubsection{Johnson's algorithm}
+            \lstinputlisting[language=c++]{graphs/bellford.cpp}
+    \subsection{Bipartity check}
+        \lstinputlisting[language=c++]{graphs/bipartite.cpp}
+    \subsection{Articulations \& bridges}
+        \lstinputlisting[language=c++]{graphs/articulations-bridges.cpp}
+    \subsection{Ford Fulkerson's maximal flow \& minimal cut}
+    \subsubsection{Edmonds--Karp's algorithm}
+        \lstinputlisting[language=c++]{graphs/maxflow-mincut.cpp}
+    \subsubsection{Dinic's algorithm}
+        \lstinputlisting[language=c++]{graphs/dinic.cpp}
+    \subsection{Bipartite check}
+        \lstinputlisting[language=c++]{graphs/bipartite.cpp}
+    \subsection{Tarjan's strongly connected components algorithm}
+        \lstinputlisting[language=c++]{graphs/tarjan.cpp}
+    \subsection{Toposort}
+        \lstinputlisting[language=c++]{graphs/topo.cpp}
+    \subsection{Minimum spanning tree}
+        \subsubsection{Kruskal-Boruvka}
+            \lstinputlisting[language=c++]{graphs/kruskal.cpp}
+        \subsubsection{Jarnik-Prim}
+            \lstinputlisting[language=c++]{graphs/jarnik.cpp}
+    \subsection{Bipartite matching}
+        \lstinputlisting[language=c++]{graphs/bipartite_matching.cpp}
+    \subsection{NP-complete}
+        \subsubsection{Travelling salesman problem -- TSP}
+            \lstinputlisting[language=c++]{graphs/tsp.cpp}
+        \subsubsection{Hamiltonian path}
+            \lstinputlisting[language=c++]{graphs/hamiltonian_path.cpp}
+        \subsubsection{Eulerian path}
+            \lstinputlisting[language=c++]{graphs/euler.cpp}
+        \subsubsection{Vertex cover}
+            \lstinputlisting[language=c++]{graphs/vertexCover.cpp}
+
+\section{Data structures}
+    \subsection{Union find}
+        \lstinputlisting[language=c++]{structs/union_find.cpp}
+    \subsection{Fenwick tree}
+        \lstinputlisting[language=c++]{structs/fenwick_tree.cpp}
+    \subsection{Segment tree}
+        \lstinputlisting[language=c++]{structs/segment_tree.cpp}
+    \subsection{Segment tree Lazy}
+        \lstinputlisting[language=c++]{structs/segtreeLazy.cpp}
+    \subsection{Range Minimum Query (RMQ)}
+        \lstinputlisting[language=c++]{structs/rmq.cpp}
+    \subsection{Lowest Common Ancestor (LCA)}
+        \lstinputlisting[language=c++]{structs/lca.cpp}
+    \subsection{LCA iterative}
+        \lstinputlisting[language=c++]{structs/lca2.cpp}
+    \subsection{Tarjan's offline LCA}
+        \lstinputlisting[language=c++]{structs/lca3.cpp}
+    \subsection{Treap}
+        \lstinputlisting[language=c++]{structs/treap.cpp}
+    \subsection{HLD}
+        \lstinputlisting[language=c++]{structs/hld.cpp}
+    \subsection{HLD2}
+            \lstinputlisting[language=c++]{structs/hl2.cpp}
+
+\section{Math}
+    \subsection{List divisors}
+        \lstinputlisting[language=c++]{math/divisors.cpp}
+    \subsection{Modulo}
+        \lstinputlisting[language=c++]{math/mod.cpp}
+    \subsection{Modular inverse}
+        \lstinputlisting[language=c++]{math/mod_inverse.cpp}
+    \subsection{Sieve of Eratosthenes}
+        \lstinputlisting[language=c++]{math/era.cpp}
+    \subsection{Euclidean algorithm}
+        \subsubsection{Euclidean algorithm (GCD)}
+            \lstinputlisting[language=c++]{math/gcd.cpp}
+        \subsubsection{Extended Euclidean algorithm (EGCD)}
+            \lstinputlisting[language=c++]{math/extended_euclid.cpp}
+    \subsection{Pascal's triangle}
+        \lstinputlisting[language=c++]{math/pascal.cpp}
+    \subsection{Powers}
+        \subsubsection{Power of number}
+            \lstinputlisting[language=c++]{math/power.cpp}
+        \subsubsection{Modular power}
+            \lstinputlisting[language=c++]{math/modular_power.cpp}
+            \lstinputlisting[language=c++]{math/powmod.cpp}
+        \subsubsection{Matrix power}
+            \lstinputlisting[language=c++]{math/matrix_exponentiation.cpp}
+    \subsection{Equations}
+        \subsubsection{Gauss elimination method -- GEM}
+            \lstinputlisting[language=c++]{math/gem.cpp}
+        \subsubsection{Linear diophantine (ax+by=c)}
+            \lstinputlisting[language=c++]{math/linear_diophantine.cpp}
+        \subsubsection{Modular linear equation (ax=b mod m)}
+            \lstinputlisting[language=c++]{math/modular_linear_equation_solver.cpp}
+        \subsubsection{Recurrent equations}
+            \lstinputlisting[language=c++]{math/recurrent.cpp}
+        \subsubsection{Recurrent equations 2}
+            \lstinputlisting[language=c++]{math/recurrent2.cpp}
+    \subsection{Factorization}
+        \lstinputlisting[language=c++]{math/factorization.cpp }
+    \subsection{Rabin Miller test}
+        \lstinputlisting[language=c++]{math/rabin-miller.cpp}
+    \subsection{Chinese reminder theorem}
+        \lstinputlisting[language=c++]{math/chinese.cpp}
+    \subsection{Big numbers in Java}
+        \lstinputlisting[language=java]{math/bignumJava.java}
+    \subsection{Big numbers}
+        \lstinputlisting[language=c++]{math/bignum.cpp}
+    \subsection{Catalan numbers}
+        \lstinputlisting[language=c++]{math/catalan.cpp}
+    \subsection{Combinatinal numbers}
+        \lstinputlisting[language=c++]{math/comb.cpp}
+    \subsection{Combinatinal numbers modulo}
+        \lstinputlisting[language=c]{math/comb_mod.c}
+    \subsection{Euler's totient function}
+        \lstinputlisting[language=c]{math/eulersTotientFunc.cpp}
+    \subsection{Fast polynom multiplication using DFFT}
+        \lstinputlisting[language=c]{math/fft.cpp}
+    \subsection{Horner's rule for evaluation of polynoms}
+        \lstinputlisting[language=c]{math/horner.cpp}
+\section{Geometry}
+    \subsection{Global features}
+        \lstinputlisting[language=c++]{geometry/geometry.cpp}
+    \subsection{Line equation}
+        \lstinputlisting[language=c++]{geometry/line_equation.cpp }
+    \subsection{Circles}
+        \subsubsection{Circle-line intersection}
+            \lstinputlisting[language=c++]{geometry/circleLineInters.cpp}
+        \subsubsection{Two circles intersection}
+            \lstinputlisting[language=c++]{geometry/2circlesInters.cpp}
+        \subsubsection{Triangles: inscribed + circumscribed circle}
+            \lstinputlisting[language=c++]{geometry/circle-inscribed-circumscribed.cpp}
+        \subsubsection{Triangles \& quadrilaterals facts}
+            \lstinputlisting[language=c++]{geometry/triangles-quadrilaterals.cpp}
+        \includegraphics[width=\linewidth]{images/Cross-product-with-area.png}
+        \includegraphics[width=\linewidth]{images/dot_product_projection.png}
+    \subsection{Convex hull}
+        \lstinputlisting[language=c++]{geometry/convex_hull.cpp}
+    \subsection{3D geometry}
+        \subsubsection{Gloabal features}
+            \lstinputlisting[language=c++]{geometry/3dgeometry.cpp}
+        \subsubsection{Spherical distance}
+            \lstinputlisting[language=c++]{geometry/3d-spherical-distance.cpp}
+\section{Dynamic programming}
+    \subsection{Longest increasing subsequence}
+        \lstinputlisting[language=c++]{dp/lis.cpp}
+    \subsection{Minimal cost path}
+        \lstinputlisting[language=c++]{dp/minCostPath.cpp}
+\section{Others}
+    \subsection{Binary search}
+        \lstinputlisting[language=c++]{other/binary.cpp}
+    \subsection{Ternary search}
+        \lstinputlisting[language=c++]{other/ternary_search.c}
+    \subsection{Bit tricks}
+        \lstinputlisting[language=c++]{other/miscellaneous.cpp}
+    \subsection{K-th minimum}
+        \lstinputlisting[language=c++]{other/kthMin.cpp}
+    \subsection{All nearest smaller values}
+        \lstinputlisting[language=c++]{other/allNearestSmaller.cpp}
+    \subsection{STL}
+        \lstinputlisting[language=c++]{other/stl.cpp}
+    \subsection{Template}
+        \lstinputlisting[language=c++]{template.cpp}
+    \subsection{.bash-profile}
+        \lstinputlisting[language=bash]{other/basrc}
+    \subsection{.vimrc}
+        \lstinputlisting[language=bash]{other/vimrc}
+    \includegraphics[width=\linewidth]{other/asciifull.png}
+
+
+\end{multicols*}
+\end{document}
